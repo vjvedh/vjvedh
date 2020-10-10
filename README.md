@@ -1,5 +1,5 @@
 # <h2 align="center"> Namastey<img src="https://media.giphy.com/media/jt2eXsj7kgXreDGav1/giphy.gif" width="50">, I'm Vishal Lala!</h2> 
-<br><img align="center" src="https://raw.githubusercontent.com/vjvedh/vjvedh/main/assests/Portfolio.gif" sizes="100vw"></br>
+<br><h2 align="center"><img align="center" src="https://raw.githubusercontent.com/vjvedh/vjvedh/main/assests/Portfolio.gif" sizes="100vw"></h2></br>
 <p><em>👨‍🎓Electronics and Telecommunication Engineer at <a href="https://kiit.ac.in/">KIIT University</a></em></p>
 
 [![Linkedin: Vishal Lala](https://img.shields.io/badge/-Vishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/vishal-lala-384a1a136/)
