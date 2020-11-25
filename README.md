@@ -8,9 +8,7 @@
 ## Technologies
 
 - Data Science
-- Mobile application development using **Flutter (Dart)**
 - Python
-- Java
 - Machine Learning
 - Deep Learning
 
